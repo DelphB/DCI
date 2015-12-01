@@ -2,7 +2,7 @@
 source("R/installDeps.R", FALSE)
 source("R/utils.R", FALSE)
 
-source("R/printFirstPriority.R", FALSE)
+source("R/samplesForExpandedIndicators.R", FALSE)
 
 print("Generating sample data")
 
